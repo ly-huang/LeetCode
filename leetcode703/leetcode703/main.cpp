@@ -2,7 +2,7 @@
 //  main.cpp
 //  leetcode703
 //
-//  Created by 黄创 on 2021/2/11.
+//  Created by ly on 2021/2/11.
 //
 
 #include <iostream>
